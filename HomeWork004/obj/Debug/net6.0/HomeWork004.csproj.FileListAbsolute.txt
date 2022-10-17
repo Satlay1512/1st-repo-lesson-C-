@@ -1,0 +1,15 @@
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/bin/Debug/net6.0/HomeWork004
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/bin/Debug/net6.0/HomeWork004.deps.json
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/bin/Debug/net6.0/HomeWork004.runtimeconfig.json
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/bin/Debug/net6.0/HomeWork004.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/bin/Debug/net6.0/HomeWork004.pdb
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.csproj.AssemblyReference.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.AssemblyInfoInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.AssemblyInfo.cs
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.csproj.CoreCompileInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/refint/HomeWork004.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.pdb
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/HomeWork004.genruntimeconfig.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/HomeWork004/obj/Debug/net6.0/ref/HomeWork004.dll

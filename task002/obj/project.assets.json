@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson001/task002/task002.csproj",
+      "projectUniqueName": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task002/task002.csproj",
       "projectName": "task002",
-      "projectPath": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson001/task002/task002.csproj",
+      "projectPath": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task002/task002.csproj",
       "packagesPath": "/Users/satlaj/.nuget/packages/",
-      "outputPath": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson001/task002/obj/",
+      "outputPath": "/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task002/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/satlaj/.nuget/NuGet/NuGet.Config"

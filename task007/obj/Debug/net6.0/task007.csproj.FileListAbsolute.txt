@@ -1,0 +1,15 @@
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/bin/Debug/net6.0/task007
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/bin/Debug/net6.0/task007.deps.json
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/bin/Debug/net6.0/task007.runtimeconfig.json
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/bin/Debug/net6.0/task007.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/bin/Debug/net6.0/task007.pdb
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.csproj.AssemblyReference.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.AssemblyInfoInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.AssemblyInfo.cs
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.csproj.CoreCompileInputs.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/refint/task007.dll
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.pdb
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/task007.genruntimeconfig.cache
+/Users/satlaj/Desktop/GeekBrains/Семинары по C#/Lesson/Lesson001/task007/obj/Debug/net6.0/ref/task007.dll

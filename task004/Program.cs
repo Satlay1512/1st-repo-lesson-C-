@@ -2,8 +2,8 @@
 //  x = f(a)
 
 Console.Write("Введите число ");
-string inputstring = Console.ReadLine();
-int value = convert.ToInt32(inputstring);
+string inputString = Console.ReadLine();
+int value = Convert.ToInt32(inputString);
 int cube = value * value * value; 
 
-System.Console.WriteLine(cobe);
+System.Console.WriteLine(cube);
